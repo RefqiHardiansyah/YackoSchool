@@ -11590,6 +11590,9 @@ a {
 .detail-hr {
   width: 230px;
 }
+.panah {
+  margin-top: 25%;
+}
 @media only screen and (max-width: 1024px) {
   .lg-ys {
     width: 60px;
@@ -11811,10 +11814,6 @@ a {
   .container-jarak {
     margin-top: 30%;
   }
-  /* Arrow-left */
-  .carousel-inner {
-    margin-top: 20%;
-  }
 }
 @media only screen and (max-width: 375px) {
   .mx-5-ys {
@@ -12014,10 +12013,6 @@ a {
   }
   .container-jarak {
     margin-top: 20%;
-  }
-  /* Arrow-left */
-  .carousel-inner {
-    margin-top: 27%;
   }
   /* Music Section */
   .title-service-pro {
