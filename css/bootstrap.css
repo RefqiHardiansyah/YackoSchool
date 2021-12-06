@@ -11807,6 +11807,9 @@ a {
   .bw-px {
     margin-left: -15%;
   }
+  .container-jarak {
+    margin-top: 30%;
+  }
 }
 @media only screen and (max-width: 375px) {
   .mx-5-ys {
@@ -11880,6 +11883,10 @@ a {
   }
   .detail-hr {
     width: 170px;
+  }
+  /* index Section */
+  .container-jarak {
+    margin-top: 35%;
   }
 }
 @media only screen and (max-width: 320px) {
@@ -11980,11 +11987,15 @@ a {
   }
   h1, h2, h3, h4, h5, h6 {
     font-size: 3vh;
-  }.spend-time{
+  }
+  .spend-time{
     margin-top: 50%;
   }
   .detail-hr {
     width: 140px;
+  }
+  .container-jarak {
+    margin-top: 20%;
   }
 }
 @media only screen and (max-width: 375px) and (max-height: 812px){
@@ -12010,10 +12021,5 @@ a {
   }
   .bw-px {
     margin-left: -20%;
-  }
-}
-@media only screen and (max-width: 300px) and (max-height: 830px){
-  .container-jarak {
-    margin-top: 20%;
   }
 }
